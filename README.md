@@ -15,6 +15,6 @@ Toss the Coins: Use the app to perform a virtual coin toss.
 
 ## Installation
 
-To install the app, download the APK from here or build it from source using Android Studio.
+To install the app, build it from source using Android Studio.
 
 This project is licensed under the MIT License.
