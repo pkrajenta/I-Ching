@@ -3,6 +3,8 @@
 ## Overview
 I-Ching is an Android app that brings the ancient Chinese divination practice of the I Ching into the digital age. Based on the classic text I Ching, this app allows users to perform divinations using virtual coins to generate hexagrams. Each of the 64 hexagrams provides unique insights and guidance.  
 
+![Screenshot](app/Screenshot.PNG)
+
 ## Features
  Digital Coin Toss: Simulate the traditional coin toss method.  
  64 Hexagrams: Receive one of the 64 hexagrams with corresponding interpretations.  
